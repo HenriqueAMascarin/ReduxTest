@@ -1,3 +1,5 @@
+![](/src/assets/images/Redux.jpg)
+
 # Sobre
  Esse repositório é sobre o vídeo da Coffstack que ensina a utilizar a ferramenta REDUX.
 
@@ -8,6 +10,6 @@
  - Sobre tipagem utilizando o Typescript
 
 ### 🔗 Links:
- 📍 Aonde foi testado 👉 [clique aqui](api-test-swart.vercel.app)
-
  📍 Link do vídeo 👉 [clique aqui](https://www.youtube.com/watch?v=HGMd3dbB-lM)
+
+ 📍 Aonde foi testado 👉 [clique aqui](https://redux-test-alpha.vercel.app)
