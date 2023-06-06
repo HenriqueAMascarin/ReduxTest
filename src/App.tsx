@@ -6,7 +6,7 @@ import './App.css'
 import { increment, incrementAmount } from './assets/redux/newWay/features/counter/counter-slice';
 
 // antigamente se importava o connect para o jeito oldSchool 
-import { useDispatch, useSelector } from 'react-redux/es/exports' // useSelector hook padrao pra ter o estado
+import { useDispatch } from 'react-redux/es/exports' // useSelector hook padrao pra ter o estado
 //useDispatch hook para trocar o estado
 import { useAppSelector } from './assets/redux/newWay/customHooks'; // hook customizavel do useSelector
 
